@@ -1,0 +1,5 @@
+C:\Users\DELL\source\repos\CSharp_Practice_Exercises-2-\Exercise_UsingDLL\MysecondDLL\bin\Debug\MysecondDLL.dll
+C:\Users\DELL\source\repos\CSharp_Practice_Exercises-2-\Exercise_UsingDLL\MysecondDLL\bin\Debug\MysecondDLL.pdb
+C:\Users\DELL\source\repos\CSharp_Practice_Exercises-2-\Exercise_UsingDLL\MysecondDLL\obj\Debug\MysecondDLL.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\CSharp_Practice_Exercises-2-\Exercise_UsingDLL\MysecondDLL\obj\Debug\MysecondDLL.dll
+C:\Users\DELL\source\repos\CSharp_Practice_Exercises-2-\Exercise_UsingDLL\MysecondDLL\obj\Debug\MysecondDLL.pdb

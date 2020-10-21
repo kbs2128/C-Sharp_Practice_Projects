@@ -1,0 +1,10 @@
+C:\Users\DELL\source\repos\CSharp_Practice_Exercises-2-\Practice\Practice\bin\Debug\Practice.exe.config
+C:\Users\DELL\source\repos\CSharp_Practice_Exercises-2-\Practice\Practice\bin\Debug\Practice.exe
+C:\Users\DELL\source\repos\CSharp_Practice_Exercises-2-\Practice\Practice\bin\Debug\Practice.pdb
+C:\Users\DELL\source\repos\CSharp_Practice_Exercises-2-\Practice\Practice\obj\Debug\Practice.csprojAssemblyReference.cache
+C:\Users\DELL\source\repos\CSharp_Practice_Exercises-2-\Practice\Practice\obj\Debug\Practice.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\CSharp_Practice_Exercises-2-\Practice\Practice\obj\Debug\Practice.exe
+C:\Users\DELL\source\repos\CSharp_Practice_Exercises-2-\Practice\Practice\obj\Debug\Practice.pdb
+C:\Users\DELL\source\repos\CSharp_Practice_Exercises-2-\Practice\Practice\bin\Debug\MyThirdDLL.dll
+C:\Users\DELL\source\repos\CSharp_Practice_Exercises-2-\Practice\Practice\bin\Debug\MyThirdDLL.pdb
+C:\Users\DELL\source\repos\CSharp_Practice_Exercises-2-\Practice\Practice\obj\Debug\Practice.csproj.CopyComplete

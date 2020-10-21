@@ -1,0 +1,7 @@
+C:\Users\DELL\source\repos\CSharp_Practice_Exercises-2-\Exercise4_Person\Exercise4_Person\bin\Debug\Exercise4_Person.exe.config
+C:\Users\DELL\source\repos\CSharp_Practice_Exercises-2-\Exercise4_Person\Exercise4_Person\bin\Debug\Exercise4_Person.exe
+C:\Users\DELL\source\repos\CSharp_Practice_Exercises-2-\Exercise4_Person\Exercise4_Person\bin\Debug\Exercise4_Person.pdb
+C:\Users\DELL\source\repos\CSharp_Practice_Exercises-2-\Exercise4_Person\Exercise4_Person\obj\Debug\Exercise4_Person.csprojAssemblyReference.cache
+C:\Users\DELL\source\repos\CSharp_Practice_Exercises-2-\Exercise4_Person\Exercise4_Person\obj\Debug\Exercise4_Person.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\CSharp_Practice_Exercises-2-\Exercise4_Person\Exercise4_Person\obj\Debug\Exercise4_Person.exe
+C:\Users\DELL\source\repos\CSharp_Practice_Exercises-2-\Exercise4_Person\Exercise4_Person\obj\Debug\Exercise4_Person.pdb

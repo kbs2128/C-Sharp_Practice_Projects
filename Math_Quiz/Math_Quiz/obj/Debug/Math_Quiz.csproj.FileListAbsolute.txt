@@ -1,0 +1,10 @@
+C:\Users\DELL\source\repos\CSharp_Practice_Exercises-2-\Math_Quiz\Math_Quiz\bin\Debug\Math_Quiz.exe.config
+C:\Users\DELL\source\repos\CSharp_Practice_Exercises-2-\Math_Quiz\Math_Quiz\bin\Debug\Math_Quiz.exe
+C:\Users\DELL\source\repos\CSharp_Practice_Exercises-2-\Math_Quiz\Math_Quiz\bin\Debug\Math_Quiz.pdb
+C:\Users\DELL\source\repos\CSharp_Practice_Exercises-2-\Math_Quiz\Math_Quiz\obj\Debug\Math_Quiz.csprojAssemblyReference.cache
+C:\Users\DELL\source\repos\CSharp_Practice_Exercises-2-\Math_Quiz\Math_Quiz\obj\Debug\Math_Quiz.Form1.resources
+C:\Users\DELL\source\repos\CSharp_Practice_Exercises-2-\Math_Quiz\Math_Quiz\obj\Debug\Math_Quiz.Properties.Resources.resources
+C:\Users\DELL\source\repos\CSharp_Practice_Exercises-2-\Math_Quiz\Math_Quiz\obj\Debug\Math_Quiz.csproj.GenerateResource.cache
+C:\Users\DELL\source\repos\CSharp_Practice_Exercises-2-\Math_Quiz\Math_Quiz\obj\Debug\Math_Quiz.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\CSharp_Practice_Exercises-2-\Math_Quiz\Math_Quiz\obj\Debug\Math_Quiz.exe
+C:\Users\DELL\source\repos\CSharp_Practice_Exercises-2-\Math_Quiz\Math_Quiz\obj\Debug\Math_Quiz.pdb

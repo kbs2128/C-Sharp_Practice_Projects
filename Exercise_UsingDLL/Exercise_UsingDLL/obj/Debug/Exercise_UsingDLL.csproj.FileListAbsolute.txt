@@ -1,0 +1,10 @@
+C:\Users\DELL\source\repos\CSharp_Practice_Exercises-2-\Exercise_UsingDLL\Exercise_UsingDLL\bin\Debug\Exercise_UsingDLL.exe.config
+C:\Users\DELL\source\repos\CSharp_Practice_Exercises-2-\Exercise_UsingDLL\Exercise_UsingDLL\bin\Debug\Exercise_UsingDLL.exe
+C:\Users\DELL\source\repos\CSharp_Practice_Exercises-2-\Exercise_UsingDLL\Exercise_UsingDLL\bin\Debug\Exercise_UsingDLL.pdb
+C:\Users\DELL\source\repos\CSharp_Practice_Exercises-2-\Exercise_UsingDLL\Exercise_UsingDLL\bin\Debug\MysecondDLL.dll
+C:\Users\DELL\source\repos\CSharp_Practice_Exercises-2-\Exercise_UsingDLL\Exercise_UsingDLL\bin\Debug\MysecondDLL.pdb
+C:\Users\DELL\source\repos\CSharp_Practice_Exercises-2-\Exercise_UsingDLL\Exercise_UsingDLL\obj\Debug\Exercise_UsingDLL.csprojAssemblyReference.cache
+C:\Users\DELL\source\repos\CSharp_Practice_Exercises-2-\Exercise_UsingDLL\Exercise_UsingDLL\obj\Debug\Exercise_UsingDLL.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\CSharp_Practice_Exercises-2-\Exercise_UsingDLL\Exercise_UsingDLL\obj\Debug\Exercise_UsingDLL.csproj.CopyComplete
+C:\Users\DELL\source\repos\CSharp_Practice_Exercises-2-\Exercise_UsingDLL\Exercise_UsingDLL\obj\Debug\Exercise_UsingDLL.exe
+C:\Users\DELL\source\repos\CSharp_Practice_Exercises-2-\Exercise_UsingDLL\Exercise_UsingDLL\obj\Debug\Exercise_UsingDLL.pdb

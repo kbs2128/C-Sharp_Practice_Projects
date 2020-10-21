@@ -1,0 +1,6 @@
+C:\Users\DELL\source\repos\CSharp_Practice_Exercises-2-\Practice\MyThirdDLL\bin\Debug\MyThirdDLL.dll
+C:\Users\DELL\source\repos\CSharp_Practice_Exercises-2-\Practice\MyThirdDLL\bin\Debug\MyThirdDLL.pdb
+C:\Users\DELL\source\repos\CSharp_Practice_Exercises-2-\Practice\MyThirdDLL\obj\Debug\MyThirdDLL.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\CSharp_Practice_Exercises-2-\Practice\MyThirdDLL\obj\Debug\MyThirdDLL.dll
+C:\Users\DELL\source\repos\CSharp_Practice_Exercises-2-\Practice\MyThirdDLL\obj\Debug\MyThirdDLL.pdb
+C:\Users\DELL\source\repos\CSharp_Practice_Exercises-2-\Practice\MyThirdDLL\obj\Debug\MyThirdDLL.csprojAssemblyReference.cache

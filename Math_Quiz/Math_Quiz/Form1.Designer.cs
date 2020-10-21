@@ -54,6 +54,7 @@
             this.label5 = new System.Windows.Forms.Label();
             this.plusleftlabel = new System.Windows.Forms.Label();
             this.timer1 = new System.Windows.Forms.Timer(this.components);
+            this.quit = new System.Windows.Forms.Button();
             ((System.ComponentModel.ISupportInitialize)(this.difference)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.product)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.division)).BeginInit();
@@ -87,6 +88,7 @@
             this.difference.Name = "difference";
             this.difference.Size = new System.Drawing.Size(100, 41);
             this.difference.TabIndex = 3;
+            this.difference.Enter += new System.EventHandler(this.difference_Enter);
             // 
             // minus
             // 
@@ -135,6 +137,7 @@
             this.product.Name = "product";
             this.product.Size = new System.Drawing.Size(100, 41);
             this.product.TabIndex = 4;
+            this.product.Enter += new System.EventHandler(this.difference_Enter);
             // 
             // x
             // 
@@ -183,6 +186,7 @@
             this.division.Name = "division";
             this.division.Size = new System.Drawing.Size(100, 41);
             this.division.TabIndex = 5;
+            this.division.Enter += new System.EventHandler(this.difference_Enter);
             // 
             // label13
             // 
@@ -227,8 +231,8 @@
             // startbutton
             // 
             this.startbutton.AutoSize = true;
-            this.startbutton.Font = new System.Drawing.Font("Microsoft Sans Serif", 14F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.startbutton.Location = new System.Drawing.Point(121, 298);
+            this.startbutton.Font = new System.Drawing.Font("Times New Roman", 13.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.startbutton.Location = new System.Drawing.Point(84, 294);
             this.startbutton.Name = "startbutton";
             this.startbutton.Size = new System.Drawing.Size(166, 39);
             this.startbutton.TabIndex = 1;
@@ -251,7 +255,7 @@
             this.sum.Name = "sum";
             this.sum.Size = new System.Drawing.Size(100, 41);
             this.sum.TabIndex = 2;
-            this.sum.Enter += new System.EventHandler(this.answer_Enter);
+            this.sum.Enter += new System.EventHandler(this.sum_Enter);
             // 
             // plus
             // 
@@ -298,11 +302,24 @@
             this.timer1.Interval = 1000;
             this.timer1.Tick += new System.EventHandler(this.timer1_Tick);
             // 
+            // quit
+            // 
+            this.quit.Font = new System.Drawing.Font("Times New Roman", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.quit.Location = new System.Drawing.Point(369, 305);
+            this.quit.Name = "quit";
+            this.quit.Size = new System.Drawing.Size(85, 32);
+            this.quit.TabIndex = 27;
+            this.quit.Text = "Quit";
+            this.quit.UseVisualStyleBackColor = true;
+            this.quit.Visible = false;
+            this.quit.Click += new System.EventHandler(this.quit_Click);
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(478, 349);
+            this.Controls.Add(this.quit);
             this.Controls.Add(this.sum);
             this.Controls.Add(this.plus);
             this.Controls.Add(this.plusrightlabel);
@@ -368,6 +385,7 @@
         private System.Windows.Forms.Label label5;
         private System.Windows.Forms.Label plusleftlabel;
         private System.Windows.Forms.Timer timer1;
+        private System.Windows.Forms.Button quit;
     }
 }
 

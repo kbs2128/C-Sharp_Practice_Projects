@@ -1,0 +1,10 @@
+C:\Users\DELL\source\repos\CSharp_Practice_Exercises-2-\MyMenu_Demo\MyMenu_Demo\bin\Debug\MyMenu_Demo.exe.config
+C:\Users\DELL\source\repos\CSharp_Practice_Exercises-2-\MyMenu_Demo\MyMenu_Demo\bin\Debug\MyMenu_Demo.exe
+C:\Users\DELL\source\repos\CSharp_Practice_Exercises-2-\MyMenu_Demo\MyMenu_Demo\bin\Debug\MyMenu_Demo.pdb
+C:\Users\DELL\source\repos\CSharp_Practice_Exercises-2-\MyMenu_Demo\MyMenu_Demo\obj\Debug\MyMenu_Demo.csprojAssemblyReference.cache
+C:\Users\DELL\source\repos\CSharp_Practice_Exercises-2-\MyMenu_Demo\MyMenu_Demo\obj\Debug\MyMenu_Demo.Form1.resources
+C:\Users\DELL\source\repos\CSharp_Practice_Exercises-2-\MyMenu_Demo\MyMenu_Demo\obj\Debug\MyMenu_Demo.Properties.Resources.resources
+C:\Users\DELL\source\repos\CSharp_Practice_Exercises-2-\MyMenu_Demo\MyMenu_Demo\obj\Debug\MyMenu_Demo.csproj.GenerateResource.cache
+C:\Users\DELL\source\repos\CSharp_Practice_Exercises-2-\MyMenu_Demo\MyMenu_Demo\obj\Debug\MyMenu_Demo.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\CSharp_Practice_Exercises-2-\MyMenu_Demo\MyMenu_Demo\obj\Debug\MyMenu_Demo.exe
+C:\Users\DELL\source\repos\CSharp_Practice_Exercises-2-\MyMenu_Demo\MyMenu_Demo\obj\Debug\MyMenu_Demo.pdb
