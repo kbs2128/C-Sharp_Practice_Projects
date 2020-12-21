@@ -1,0 +1,10 @@
+C:\Users\DELL\source\repos\CSharp_Practice_Exercises-2-\File_IO_DEMO_2\File_IO_DEMO_2\bin\Debug\File_IO_DEMO_2.exe.config
+C:\Users\DELL\source\repos\CSharp_Practice_Exercises-2-\File_IO_DEMO_2\File_IO_DEMO_2\bin\Debug\File_IO_DEMO_2.exe
+C:\Users\DELL\source\repos\CSharp_Practice_Exercises-2-\File_IO_DEMO_2\File_IO_DEMO_2\bin\Debug\File_IO_DEMO_2.pdb
+C:\Users\DELL\source\repos\CSharp_Practice_Exercises-2-\File_IO_DEMO_2\File_IO_DEMO_2\obj\Debug\File_IO_DEMO_2.csprojAssemblyReference.cache
+C:\Users\DELL\source\repos\CSharp_Practice_Exercises-2-\File_IO_DEMO_2\File_IO_DEMO_2\obj\Debug\File_IO_DEMO_2.Form1.resources
+C:\Users\DELL\source\repos\CSharp_Practice_Exercises-2-\File_IO_DEMO_2\File_IO_DEMO_2\obj\Debug\File_IO_DEMO_2.Properties.Resources.resources
+C:\Users\DELL\source\repos\CSharp_Practice_Exercises-2-\File_IO_DEMO_2\File_IO_DEMO_2\obj\Debug\File_IO_DEMO_2.csproj.GenerateResource.cache
+C:\Users\DELL\source\repos\CSharp_Practice_Exercises-2-\File_IO_DEMO_2\File_IO_DEMO_2\obj\Debug\File_IO_DEMO_2.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\CSharp_Practice_Exercises-2-\File_IO_DEMO_2\File_IO_DEMO_2\obj\Debug\File_IO_DEMO_2.exe
+C:\Users\DELL\source\repos\CSharp_Practice_Exercises-2-\File_IO_DEMO_2\File_IO_DEMO_2\obj\Debug\File_IO_DEMO_2.pdb
