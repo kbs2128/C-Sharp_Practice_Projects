@@ -1,0 +1,14 @@
+C:\Users\DELL\source\repos\CSharp_Practice_Exercises-2-\Library\Library\bin\Debug\Database1.mdf
+C:\Users\DELL\source\repos\CSharp_Practice_Exercises-2-\Library\Library\bin\Debug\Database1_log.ldf
+C:\Users\DELL\source\repos\CSharp_Practice_Exercises-2-\Library\Library\bin\Debug\Library.exe.config
+C:\Users\DELL\source\repos\CSharp_Practice_Exercises-2-\Library\Library\bin\Debug\Library.exe
+C:\Users\DELL\source\repos\CSharp_Practice_Exercises-2-\Library\Library\bin\Debug\Library.pdb
+C:\Users\DELL\source\repos\CSharp_Practice_Exercises-2-\Library\Library\obj\Debug\Library.csprojAssemblyReference.cache
+C:\Users\DELL\source\repos\CSharp_Practice_Exercises-2-\Library\Library\obj\Debug\Library.Properties.Resources.resources
+C:\Users\DELL\source\repos\CSharp_Practice_Exercises-2-\Library\Library\obj\Debug\Library.csproj.GenerateResource.cache
+C:\Users\DELL\source\repos\CSharp_Practice_Exercises-2-\Library\Library\obj\Debug\Library.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\CSharp_Practice_Exercises-2-\Library\Library\obj\Debug\Library.exe
+C:\Users\DELL\source\repos\CSharp_Practice_Exercises-2-\Library\Library\obj\Debug\Library.pdb
+C:\Users\DELL\source\repos\CSharp_Practice_Exercises-2-\Library\Library\obj\Debug\Library.Form_1.resources
+C:\Users\DELL\source\repos\CSharp_Practice_Exercises-2-\Library\Library\obj\Debug\Library.Form2.resources
+C:\Users\DELL\source\repos\CSharp_Practice_Exercises-2-\Library\Library\obj\Debug\Library.Form3.resources
